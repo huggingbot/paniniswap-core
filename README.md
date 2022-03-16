@@ -1,6 +1,6 @@
-# PaniniSwap Factory
+# PaniniSwap Core
 
-In-depth documentation on PancakeSwap is available at [docs.paniniswap.com](https://docs.paniniswap.com/).
+A set of smart contracts consisting of an ERC-20 compatible token and a factory contract to create Liquidity Pair (LP) tokens for the use of the PaniniSwap app.
 
 # Local Development
 
